@@ -41,5 +41,10 @@ dart run topik_kalkulator_luas.dart
 
 # Menjalankan Topik Kalkulator Diskon
 dart run topik_kalkulator_diskon.dart# InfiniteLearningMobileDev
+
+---
+
+## 👤 Author
+Felix Madison
 Repo Tugas Mobile Development Infinite Learning
 
