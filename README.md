@@ -52,5 +52,4 @@ dart run topik_kalkulator_diskon.dart
 ---
 
 ## 👤 Author
-Felix Madison
-- 2026
+Felix Madison - 2026 
