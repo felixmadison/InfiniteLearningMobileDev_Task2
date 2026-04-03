@@ -35,15 +35,14 @@ Pastikan Anda memiliki Dart SDK terinstal di lingkungan Anda. Jalankan file meng
 **Menjalankan Topik Menyapa**
 **`dart run topik_menyapa.dart`**
 
-# Menjalankan Topik Kalkulator Luas
-dart run topik_kalkulator_luas.dart
+**Menjalankan Topik Kalkulator Luas**
+**`dart run topik_kalkulator_luas.dart`**
 
-# Menjalankan Topik Kalkulator Diskon
-dart run topik_kalkulator_diskon.dart# InfiniteLearningMobileDev
+**Menjalankan Topik Kalkulator Diskon**
+**`dart run topik_kalkulator_diskon.dart`**
 
 ---
 
 ## 👤 Author
 Felix Madison
-Repo Tugas Mobile Development Infinite Learning
-
+Task 2: Dart Basic Functions
